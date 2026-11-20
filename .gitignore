@@ -1,0 +1,11 @@
+# Learner repository: build output, dependencies and local editor/OS files.
+node_modules/
+dist/
+reports/
+starter/reports/
+.env
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
